@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I’m currently working on an E-commerce Project<br>🌱 I’m currently learning Data structure & Algorithm (python, django) <br>👯 I’m looking to collaborate on any backend project<br>🤔 I’m looking for help with creating solutions<br>💬 Ask me about via email<br>📫 How to reach me: @edos76509@gmail.com<br>😄 Pronouns: him<br>⚡ Fun fact: I am a good woodworker<br> 📫 Certified Backend developer.
+🔭 I’m currently working on an E-commerce Project<br>🌱 I’m currently learning Data Structure & Algorithm (Python, Django) <br>👯 I’m looking to collaborate on any Backend Project<br>🤔 I’m looking for help with Creating Solutions<br>💬 Ask me about via Email<br>📫 How to reach me: @edos76509@gmail.com<br>😄 Pronouns: Him<br>⚡ Fun fact: I am a Good WoodWorker<br> 📫 Certified Backend Developer.
 
-# I'm a start up founder of an E-commerce web app with Ai Agent integration.
+# I'm a start up founder of an E-commerce Web App with AI Agent Integration.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/successo.ed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/success-edo-13a6b61b3) 
