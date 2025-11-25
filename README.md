@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=cess9867&theme=dark&limit=5&simple=true)
+![](https://github-contributor-stats.vercel.app/api?username=cess9867&theme=dark&limit=3&combine_all_yearly_contributions=true)
 
 
 
